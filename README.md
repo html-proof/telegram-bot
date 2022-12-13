@@ -1,2 +1,2 @@
-# Telegram-bots
+# Telegram-bots-open ai bots
 chat bot
