@@ -1,0 +1,2 @@
+API_KEY ='5959277771:AAG5rwcE5BzQhd7pV8vePSt1ig1X1-levK4'
+keys ="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"
